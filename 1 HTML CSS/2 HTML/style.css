@@ -1,0 +1,30 @@
+h1{
+	color: #0EE0F3;
+	font-size: 66pt
+}
+del{
+	color:#CBDCE3 ;
+}
+b{
+	color:#F12108 ;
+}
+ins{
+	color:#43F908 ; 
+}
+span {
+	color:magenta;
+}
+#bold{	
+	font-weight:bold;
+	text-decoration: underline;
+	font
+}
+#red{
+	color:#930995 ;
+	text-decoration: underline;
+}
+.big{
+	font-size: 44pt
+}
+
+

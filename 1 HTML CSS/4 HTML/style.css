@@ -1,0 +1,29 @@
+td{
+	width: 20px;
+	height: 20px;
+	border: 2px solid black;
+
+
+	background-color: white;
+	transition:99999999999999s linear background-color ;
+
+}
+
+table{
+	margin-left: 26%;
+	margin-top: 5%;
+	border-spacing: 0px;
+}
+
+td:hover{
+	background-color: red;
+	transition: 0.2s linear background-color ;
+	
+}
+td:nth-child(3n){
+border-radius: 100%
+}
+
+	
+
+
