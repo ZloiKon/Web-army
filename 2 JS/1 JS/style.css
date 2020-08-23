@@ -5,17 +5,46 @@
     height: 50px;
     margin-left: 45%;
 }
+
+
+
 input[type="button"]{
     margin-left: 45%;
     height: 50px;
     width: 100px;
 }
 
+input[type="button"]{
+margin-left: 45%;
 
 
 
+}
+input[type="text1"]{
+    width: 150px;
+    height: 50px;
+}
 
+#result1{
+    background-color: royalblue;
+    width: 250px;
+    height: 50px;
+    margin-left: 45%;
+}
 
+#result2{
+    background-color: royalblue;
+    width: 250px;
+    height: 50px;
+    margin-left: 45%;
+}
+
+#result3{
+    background-color: royalblue;
+    width: 250px;
+    height: 50px;
+    margin-left: 45%;
+}
 
 
 
