@@ -1,0 +1,29 @@
+h1{
+	color: #01E1FF;
+}
+del{
+	color: #DADADA;
+}
+strong{
+	color: #F11717;
+}
+ins{
+	color: #35F605;
+}	
+i{
+	color: #FE14D3;
+}
+#red{
+	color: red;
+}	
+#bold{	
+	font-weight: bold;
+}	
+#italic{	
+	font-style: italic;
+}	
+#line-through{	
+	text-decoration:line-through;  
+}.big{
+	font-size: 24pt;
+}

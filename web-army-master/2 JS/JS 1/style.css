@@ -1,0 +1,17 @@
+#result , #resultB , #resultC , #resultD{
+    width: 250px;
+    height: 50px;
+    background-color: darkgoldenrod;
+    margin-left: 45%;
+
+}
+input[type="button"]{
+    margin-left: 45%;
+    height: 50px;
+    width: 100px;
+}
+input[type="text"]{
+    width: 150px;
+    height: 50px;
+    margin-left: 45%;
+}

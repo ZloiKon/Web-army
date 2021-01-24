@@ -1,0 +1,23 @@
+#header{
+	font-size: 32pt; 
+}
+.character{
+	color: purple;
+	font-weight: bold;
+	text-decoration: underline;
+	font-size: 8pt; 
+}
+#item{
+	color: white;
+	text-decoration:line-through; 
+}
+.character:hover{
+	color: red;
+	transition: 0.75s linear;
+}
+#item:hover{
+	text-decoration: line-through;
+	color: black;
+	font-size: 18pt;
+	transition: 2s linear;
+}	

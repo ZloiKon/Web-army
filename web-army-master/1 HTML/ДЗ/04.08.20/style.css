@@ -1,0 +1,59 @@
+img{
+	margin-left: 40%;
+}
+ol{
+	font-size: 33pt;
+}
+td{
+	width: 20px;
+	background-color: white;
+	height: 20px;
+	border: 2px solid black;
+	transition: 999999999999999s linear background-color;
+}
+a:visited{
+	color: black;
+}
+a:link{
+	color:green;
+}
+td:nth-child(1):hover{
+	background-color: red;
+	transition: 0s linear;
+}
+td:nth-child(2):hover{
+	background-color: orange;
+	transition: 0s linear;
+}
+td:nth-child(3):hover{
+	background-color: yellow;
+	transition: 0s linear;
+}
+td:nth-child(4):hover{
+	background-color: green;
+	transition: 0s linear;
+}
+td:nth-child(5):hover{
+	background-color: #00f0ff;
+	transition: 0s linear;
+}
+td:nth-child(6):hover{
+	background-color: #002eff;
+	transition: 0s linear;
+}
+td:nth-child(7):hover{
+	background-color: purple;
+	transition: 0s linear;
+}
+td:nth-child(8):hover{
+	background-color: white;
+	transition: 0s linear;
+}
+td:nth-child(9):hover{
+	background-color: black;
+	transition: 0s linear;
+}
+ul{
+	font-size: 25pt;
+	margin-left: 40%;
+}

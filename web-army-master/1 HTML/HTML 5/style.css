@@ -1,0 +1,23 @@
+table{
+	margin-left: 40%;
+}
+td{
+	width: 100px;
+	height: 40px;
+	border-color: white;
+	transition: 999999999999999s linear background-color;
+	border: 2px solid black;
+	text-align: center;
+}
+
+.kostyl{
+	border: 0px solid black;
+}
+
+a:link{
+	color:green;
+}
+
+a:visited{
+	color: black;
+}

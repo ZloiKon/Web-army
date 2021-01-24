@@ -1,0 +1,23 @@
+#p1{
+    width: 150px;
+    height: 100px;
+    background-color: red;
+    margin-left: 33%;
+}
+#p2{
+    width: 150px;
+    height: 100px;
+    background-color: blue;
+    margin-left: 60%;
+}
+div{
+    position: absolute;
+    bottom: 0%;
+}
+#fin{
+    width: 100%;
+    position: absolute;
+    bottom: 900px;
+    height: 2px;
+    border-top: 2px dashed black;
+}

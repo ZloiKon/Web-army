@@ -1,0 +1,36 @@
+#divA {
+    width: 500px;
+    height: 150px;
+    border-style: solid;
+    margin: auto;
+    font-size: 30px;
+}
+
+#divB {
+    width: 500px;
+    height: 150px;
+    border-style: solid;
+    margin: auto;
+    font-size: 30px;
+}
+
+.center {
+   margin-left: 580px;
+   margin-top: 2px;
+   margin-bottom: 2px;
+   width: 200px;
+   height: 40px;
+   font-size: 30px;
+   border-style: solid;
+   border-color: red;
+}
+
+#btnA {
+    width: auto;
+    height: auto;
+    margin-left: auto;
+}
+
+.buttons {
+    font-size: 30px;
+}
