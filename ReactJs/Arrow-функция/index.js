@@ -1,5 +1,79 @@
+//ООП Классы в JavaScript
+//Объектно-орентированное програмированние
+//1) Инкапсуляция 
+//2) Полиморфизм
+//3) Наследование
+//4) Абстракция
 
-let serverData = [24, "User", false, 85, -5, 0, 45, "google.com"]
 
-let [User,google.com] = [[serverData.filter((item, i)=>{return typeof item =="boolean"})]  ,  [serverData.filter((item, i)=>{return typeof item =="number"})]  ,  [serverData.filter((item, i)=>{return typeof item =="false"})]]
-console.log(...serverData)
+
+
+
+
+
+
+
+
+
+function getMovie(name){
+
+})
+function getMovie(name, date){
+    
+})
+function getMovie(genre){
+    
+})
+function getMovie(adress){
+    
+})
+function getMovie(name, date, genre, adress)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
